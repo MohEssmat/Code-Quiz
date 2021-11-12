@@ -58,16 +58,6 @@ const questions = [
     answer: "a. 0",
   },
   {
-    question: "Who invented JavaScript?",
-    choices: [
-      "a. Douglas Crockford",
-      "b. Sheryl Sandberg",
-      "c. Brendan Eich",
-      "d. Ben Javascript",
-    ],
-    answer: "c. Brendan Eich",
-  },
-  {
     question: "How to write an IF statement in JavaScript?",
     choices: [
       "a. if i == 5 then",
